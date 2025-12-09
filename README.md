@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Halo%20Semuanya!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/USERNAME_KAMU">Nama Kamu</a>! 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/USERNAME_KAMU">Rakaa Sopian</a>! 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
@@ -17,8 +17,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Saya saat ini adalah seorang **[Mahasiswa / Developer / Freelancer]**.
-- 🌱 Sedang belajar mendalami **[Sebutkan Bahasa/Skill yang sedang dipelajari]**.
+- 🎓 Saya saat ini adalah seorang **Mahasiswa**.
+- 🌱 Sedang belajar mendalami **HTML,CSS,JAVASCRIPT,C++**.
 - 💡 Tertarik pada **Web Development, Data Science, & Artificial Intelligence**.
 - 💬 Tanyakan saya tentang **[Bahasa Pemrograman Utama Kamu]**.
 - ⚡ Fun fact: **[Isi dengan fakta unik tentangmu]**.
