@@ -42,19 +42,34 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/USERNAME_KAMU">Nama Kamu</a></p>
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/USERNAME_IG_KAMU">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <a href="https://twitter.com/USERNAME_X_KAMU">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+
+  <a href="https://youtube.com/@USERNAME_YOUTUBE">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <a href="https://tiktok.com/@USERNAME_TIKTOK">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+
+  <a href="https://discord.gg/LINK_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  
+  <a href="https://WEBSITE_KAMU.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<p align="center">Made with ❤️ by <a href="https://github.com/USERNAME_KAMU">k-kaii</a></p>
