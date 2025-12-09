@@ -20,8 +20,8 @@
 - 🎓 Saya saat ini adalah seorang **Mahasiswa**.
 - 🌱 Sedang belajar mendalami **HTML,CSS,JAVASCRIPT,C++**.
 - 💡 Tertarik pada **Web Development, Data Science, & Artificial Intelligence**.
-- 💬 Tanyakan saya tentang **[Bahasa Pemrograman Utama Kamu]**.
-- ⚡ Fun fact: **[Isi dengan fakta unik tentangmu]**.
+- 💬 Tanyakan saya tentang **HTML**.
+- ⚡ Fun fact: **AKU ADALAH SOSOK ASLI ATMIN**.
 
 ---
 
